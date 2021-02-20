@@ -1,0 +1,31 @@
+/* body {
+    background-color: #F5F6F7;
+} */
+.page-title {
+    display: block !important;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 15px;
+    color: teal;
+}
+.form-container {
+    width: 400px;
+    margin: auto;
+}
+.ui.teal.button:focus,
+.ui.teal.buttons .button:focus {
+    background-color: #00b5ad;
+}
+
+.ui.container {
+    max-width: 900px!important;
+}
+
+.ui.pagination.menu {
+    width: 100%;
+}
+
+.ui.secondary.pointing.menu {
+    display: flex;
+    justify-content: center;
+}
